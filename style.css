@@ -1,0 +1,42 @@
+body{
+    background-color: bisque;
+}
+.mySlides {
+    display:none;
+    width: 1130px;
+    height: 500px;
+}
+img{
+    
+    width: 150px;
+    padding: 25px 50px 75px 100px;
+    
+
+}
+.topnav{
+    text-align: center;
+}
+
+#rs{
+    text-decoration: none;
+    font-size: 20px;
+}
+#logo{
+    color: rgba(255, 0, 0, 0.65);
+    border-width: 10px;
+}
+.active{
+    text-decoration: none;
+    padding: 8px 35px;
+    color: rgb(9, 13, 245);
+    border-width: 3px;
+    background-color: rgb(246, 250, 7);
+
+}
+.active:hover{
+    color: rgb(0, 255, 13);
+}
+.submit{
+    background-color: cyan;
+    color: rgb(248, 204, 6);
+}
